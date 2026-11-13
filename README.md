@@ -313,7 +313,7 @@ ns6136.hostgator.com</code></pre>
 <pre><code>16 IP addresses scanned
 4 hosts up</code></pre>
 
-<p><img src="vm%20snapshot.png" alt="Zenmap result" width="700"></p>
+<p><img src="zenmap.png" alt="Zenmap result" width="700"></p>
 
 <hr>
 
