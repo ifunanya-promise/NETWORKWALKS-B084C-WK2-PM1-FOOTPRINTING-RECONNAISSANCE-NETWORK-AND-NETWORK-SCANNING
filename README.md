@@ -55,8 +55,8 @@
 <h3>Analysis</h3>
 <p>The WHOIS results identified GoDaddy as the registrar and HostGator as the provider associated with the domain's name servers. The registration dates and domain status codes provided additional information about the domain's registration and management.</p>
 
-<p><img src="screenshots/whois.png" alt="WHOIS result" width="700"></p>
-<p><img src="screenshots/whois2.png" alt="WHOIS result continued" width="700"></p>
+<p><img src="whois.png" alt="WHOIS result" width="700"></p>
+<p><img src="whois2.png" alt="WHOIS result continued" width="700"></p>
 
 <hr>
 
@@ -86,7 +86,7 @@
 <h3>Analysis</h3>
 <p>The lookup successfully resolved <code>networkwalks.com</code> to <code>192.232.216.135</code>. This IP address was subsequently useful when examining the website's HTTP responses and associated technologies.</p>
 
-<p><img src="screenshots/nslookup.png" alt="NSLOOKUP result" width="700"></p>
+<p><img src="nslookup.png" alt="NSLOOKUP result" width="700"></p>
 
 <hr>
 
@@ -115,7 +115,7 @@
 
 <p>This inspection helped me understand how HTTP headers can reveal useful details about a web application's configuration without requiring access to its backend.</p>
 
-<p><img src="screenshots/cURL.png" alt="cURL result" width="700"></p>
+<p><img src="cURL.png" alt="cURL result" width="700"></p>
 
 <hr>
 
@@ -158,7 +158,7 @@ ns6136.hostgator.com</code></pre>
 
 <p>The findings showed how DNS enumeration can expose information about the different services associated with a domain.</p>
 
-<p><img src="screenshots/DNSRecon.png" alt="DNSRecon result" width="700"></p>
+<p><img src="DNSRecon.png" alt="DNSRecon result" width="700"></p>
 
 <hr>
 
@@ -181,7 +181,7 @@ ns6136.hostgator.com</code></pre>
 
 <p>Identifying the WAF provided information about one of the security technologies protecting the website's web traffic.</p>
 
-<p><img src="screenshots/Wafwoof.png" alt="WAFW00F result" width="700"></p>
+<p><img src="Wafwoof.png" alt="WAFW00F result" width="700"></p>
 
 <hr>
 
@@ -219,7 +219,7 @@ ns6136.hostgator.com</code></pre>
 
 <p>However, technology identification alone does not confirm the existence of a vulnerability.</p>
 
-<p><img src="screenshots/whatweb.png" alt="WhatWeb result" width="700"></p>
+<p><img src="whatweb.png" alt="WhatWeb result" width="700"></p>
 
 <hr>
 
@@ -271,7 +271,7 @@ ns6136.hostgator.com</code></pre>
 
 <p>The subnet mask <code>255.255.255.240</code> corresponds to a <code>/28</code> network containing 16 total IP addresses, with 14 usable host addresses.</p>
 
-<p><img src="screenshots/ipconfig.png" alt="ipconfig result" width="700"></p>
+<p><img src="ipconfig.png" alt="ipconfig result" width="700"></p>
 
 <hr>
 
@@ -313,7 +313,7 @@ ns6136.hostgator.com</code></pre>
 <pre><code>16 IP addresses scanned
 4 hosts up</code></pre>
 
-<p><img src="screenshots/zenmap.png" alt="Zenmap result" width="700"></p>
+<p><img src="vm%20snapshot.png" alt="Zenmap result" width="700"></p>
 
 <hr>
 
@@ -404,4 +404,8 @@ ns6136.hostgator.com</code></pre>
 <hr>
 
 <h2>Author</h2>
-<p>Ifunanya Promise</p>
+<p>
+<strong>Name:</strong> Ifunanya Promise Adinde<br>
+  
+<strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/ifunanya-promise-adinde-95354140a">linkedin.com/in/ifunanya-promise-adinde-95354140a</a>
+</p>
